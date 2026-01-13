@@ -1,6 +1,6 @@
 {
-    "name": "paievgo_1",
-    "short_name": "paievgo_1",
+    "name": "paievgo",
+    "short_name": "paievgo",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

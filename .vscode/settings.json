@@ -4,5 +4,6 @@
         "ไปยังอีเมล์",
         "มือถือเรียบร้อย",
         "ไม่สำเร็จ"
-    ]
+    ],
+    "cmake.ignoreCMakeListsMissing": true
 }

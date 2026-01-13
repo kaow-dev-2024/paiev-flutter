@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paievgo_1/screens/auth/register_screen.dart';
+import 'package:paievgo/screens/auth/register_screen.dart';
 import '../../services/auth_api.dart';
 import 'otp_verify_screen.dart';
 

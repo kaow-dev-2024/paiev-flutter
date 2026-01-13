@@ -1,4 +1,4 @@
-package com.example.paievgo_1
+package com.example.paievgo
 
 import io.flutter.embedding.android.FlutterActivity
 
